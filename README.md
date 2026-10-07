@@ -2,9 +2,9 @@
 
 ## Software QA Tester → QA Automation Engineer
 
-I am a Software QA Tester building practical experience across the complete software testing lifecycle, from requirements analysis and test design through execution, defect reporting, API and database testing, and test automation.
+I am a Software QA Tester building practical experience across requirements analysis, test design, manual execution, defect investigation, and defect reporting.
 
-My focus is not only on finding defects, but on understanding product requirements, identifying risks, designing meaningful test coverage, and helping teams deliver reliable software.
+My focus is not only on finding defects, but on understanding product requirements, identifying risks, designing meaningful test coverage, and communicating findings clearly enough for teams to act on them.
 
 ---
 
@@ -33,7 +33,7 @@ My focus is not only on finding defects, but on understanding product requiremen
 
 - SQL & Database Testing
 
-My learning path will continue through:
+My planned progression is:
 
 **SQL → API Testing → TypeScript → Playwright → Git/GitHub → CI/CD**
 
@@ -41,23 +41,24 @@ My learning path will continue through:
 
 ## 📂 QA Portfolio Projects
 
-### DemoBlaze E-commerce Web Application Testing
-Manual QA project covering requirements analysis, test design, test execution, defect investigation, and defect reporting using Qase and Jira.
+### [DemoBlaze E-commerce Web Application Testing](https://github.com/Grace-Ezenwafor/demoblaze-web-qa)
 
-**Current project evidence:**
+End-to-end manual QA portfolio project covering:
+
+- Requirements analysis
 - Authentication testing
 - Cart & Checkout testing
-- Structured Qase test runs
+- 28 executed manual test cases
+- Qase test management and execution
 - Jira defect reporting
-- Requirements traceability
-
-Full project repository coming soon.
+- 2 confirmed defects
+- Requirements-to-test-to-defect traceability
 
 ---
 
 ## 🎯 Career Direction
 
-I am building toward becoming a **QA Automation Engineer**, combining strong software-testing fundamentals with API testing, database validation, programming, browser automation, and CI/CD.
+I am building toward becoming a **QA Automation Engineer**, combining strong software-testing fundamentals with database testing, API testing, programming, browser automation, and CI/CD.
 
 I am open to **Junior QA, Software Tester, QA Internship, and entry-level QA opportunities**, including international and remote teams.
 
@@ -65,6 +66,6 @@ I am open to **Junior QA, Software Tester, QA Internship, and entry-level QA opp
 
 ## 🛠 Tools
 
-**Currently using:** Jira • Qase • Chrome DevTools
+**Currently using:** Jira • Qase • Chrome DevTools • GitHub
 
-**Coming next:** SQL • Postman • Git • GitHub • TypeScript • Playwright • GitHub Actions
+**Coming next:** SQL • Postman • TypeScript • Playwright • GitHub Actions
